@@ -1,0 +1,9 @@
+.container{
+	overflow: hidden;
+}
+.section-set{
+	padding: 0px;
+	margin: 0 auto;
+	width: 600px;
+	height: 480px;
+}
